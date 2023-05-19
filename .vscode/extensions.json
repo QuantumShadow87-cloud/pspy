@@ -1,3 +1,7 @@
 {
-    "recommendations": []
+    "recommendations": [
+        "github.copilot",
+        "ms-toolsai.jupyter-keymap",
+        "github.vscode-pull-request-github"
+    ]
 }

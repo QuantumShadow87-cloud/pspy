@@ -1,6 +1,5 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
+](https://github.com/DominicBreuker/pspy/blob/5574696564102a650a7cd91f79cd4a0410bf6b93/docker/Dockerfile.testing#L8)Version 3, 29 June 2007
+p
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
@@ -401,7 +400,7 @@ additional terms that apply to those files, or a notice indicating
 where to find the applicable terms.
 
   Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
+form of a w written license, or stated as exceptions;
 the above requirements apply either way.
 
   8. Termination.
